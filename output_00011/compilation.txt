@@ -1,0 +1,5 @@
+ compile date = 09/06/22-15:19:52
+ patch dir    = ../patch/init/dice
+ remote repo  = https://bitbucket.org/rteyssie/ramses
+ local branch = stable_18_09
+ last commit  = f2e60451f294f59a48af011940cc8977c87c9c93
